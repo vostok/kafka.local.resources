@@ -1,0 +1,4 @@
+full-build:
+  build:
+    target: None
+    configuration: None
